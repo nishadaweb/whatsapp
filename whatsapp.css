@@ -1,0 +1,269 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;";
+}
+.navbar{
+width: 100vw;
+height: 92px;
+padding-top: 14px;
+padding-bottom: 8px;
+background-color:#128C7E ;
+display: flex;
+position: fixed;
+}
+.navlogo{
+    width: 140px;
+    height: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 200px;
+}
+
+.navtext{
+    width: 126px;
+    height: 32px;
+    padding: 25px;
+    margin-left:50px;
+    
+    
+}
+.nav_links{
+     display: flex; 
+     justify-content: space-evenly;
+     padding-left: 300px;
+     padding-bottom: 20px;
+     margin-left: 200px;
+}
+.nav_links a{
+    text-decoration: none;
+    color:white;
+}
+.nav_links li{
+    padding: 10px;
+    font-size: 16px;
+    list-style: none;
+    
+}
+.p{
+    display: flex;
+    padding-top: 7px;
+    color: white;
+}
+.section1{
+    width: 1350px;
+    height: 700px;
+    padding-top: 150px;
+    display: flex;
+}
+.heading{
+    font-size: 50px;
+    color: black;
+    margin-left: 250px;
+    padding-top: 80px;
+    width: 464px;
+}
+.para{
+    padding-top: 40px;
+    font-weight: lighter;
+    font-size: 25px;
+    
+}
+.p2{
+    padding-top: 30px;
+    font-size: 22px;
+}
+.img1{
+    padding-bottom: 700px;
+    margin-left: 120px;
+    
+}
+
+
+
+.icons{
+    padding-top: 15px;
+    font-size:medium;
+    float: left;
+}
+.icon{
+    padding-right: 20px;
+    float: left;
+    padding-top: 10px;
+    color: #128C7E ;
+}
+.icon1{
+    float: right;
+    padding-top: 10px;
+    color: #128C7E ;
+}
+.A{
+    font-size: 20px;
+    display: flex;
+    margin-right: 10px;
+    padding-top: 10px;
+    color:#128C7E  ;
+}
+.p3{
+    text-decoration: none;
+    margin-right: 20px;
+    padding-top: 10px;
+    color: #128C7E ;
+    
+    
+}
+.p3:hover{
+    text-decoration: underline;
+
+}
+.section2{
+    width: 1350px;
+    height: 897px;
+    display: flex;
+    
+
+}
+.s2A{
+    width:50%;
+    background-color: #d8e8ea;
+    height: 100%;
+}
+
+.heading1{
+    margin-top: 75px;
+    width: 100%;
+    height: 44px;
+    font-size: 30px;
+    color: black;
+    font-size: 34px;
+    font-weight: bolder;
+    text-align: center;
+}
+.p4{
+    margin-left: 60px;
+    margin-top: 30px;
+    text-align: center;
+    margin-right: 1000px;
+    font-size: 20px;
+    width: 527px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+
+}
+.blue{
+    color: #39B3ED;
+}
+.blue:hover{
+    text-decoration: underline;
+}
+.img2{
+    
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.s2B{
+    width: 48%;
+    background-color: #e7f0e4;
+    height: 100%;
+    /* padding-left: 50px; */
+    margin-left: 25px;
+}
+.s2Bi{
+    margin-top: 10px;
+    display: flex; 
+    justify-content: center;
+}
+.head1{
+    font-weight: lighter;
+    color: #5e5e5e;
+    letter-spacing: 2.4px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.midsection3{
+    width: 100%;
+    height: 150px;
+}
+.button{
+     height: 30px;
+     margin-top: 60px;
+     padding-top: 20px;
+     margin-left: 570px;
+     margin-right: 570px; 
+     
+     align-items: center;
+    border-style: solid;
+    border-radius: 300px;
+    border-width: 1px;
+    border-color: #128c7e;
+    color:#128c7e;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+ .button:hover{
+        text-decoration: underline;
+    }
+.footertop{
+    width: 100%;
+    height: 410px;
+    background-color:#273443;
+    display: flex;
+}  
+ 
+.r1{
+    
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    
+    
+} 
+.items{
+    list-style-type: none;
+}
+.z{
+    font-size: 20px;
+    font-weight: 10px;
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+    line-height: 35px;
+}
+.c1{
+    float:left;
+    width: 200px;
+    margin-left: 100px;
+}
+h4{
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.footerbottom{
+    width: 100%;
+    height: 40px;
+   background-color: #1c1e21;
+   display: flex;
+}
+.copy{
+    width: 50%;
+    color: white;
+     padding-top: 10px; 
+     margin-left: 320px;
+}
+.privacy{
+    width: 50%;
+     margin-top: 10px;
+
+}
+.t{
+    text-decoration: none;
+    color: white;
+}
+    
+
